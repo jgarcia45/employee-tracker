@@ -3,28 +3,30 @@
 ![GitHub](https://img.shields.io/github/license/jgarcia45/employee-tracker)
 
 ## Technologies
+![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![Technologies](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
 ![Technologies](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
+![Technologies](https://img.shields.io/badge/-Inquirer-000000?logo=&logoColor=white)
+
 
 ## Description
-Developed a command-line application to manage a company's employee database. We used Node.js, Inquierer, and MySQL to developed the back end of the application.
+Developed a command-line application to manage a company's employee database. We used Node.js, Inquierer, and MySQL to developed the back end of the application. To begin the application, use must run: 
 ```
-npm start
+node index.js
 ```
 ## Installation
 ***Requirments***
 
-[Node.js](https://nodejs.org/en/) | [Express.js](https://www.npmjs.com/package/express)
+[Node.js](https://nodejs.org/en/) | [Inquirer](https://www.npmjs.com/package/inquirer) | [MySQL](https://www.npmjs.com/package/mysql2)
 
 ***Once Installed:***
 1. Clone the Repository on to your machine.
 2. Open the terminal and ensure you are in the right file path.
 3. Run the command ```npm install``` to download the packages.
-4. Then run the command ```npm start``` to run the software.
-5. Then open the website on your local server
+4. Then run the command ```node index.js``` to run the software.
+5. The command prompt will begin on your terminal
 
 ## User Story
 ```
@@ -58,11 +60,9 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![]()
 
 ## Link
-A link to the [code]():
+A link to the [code](https://github.com/jgarcia45/employee-tracker):
 ```
-```
-A link to the deployed [URL]():
-```
+https://github.com/jgarcia45/employee-tracker
 ```
 
 ## License
