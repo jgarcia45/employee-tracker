@@ -59,6 +59,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Screenshot
 ![]()
 
+## Video
+A link to the [Video]():
+```
+```
+
 ## Link
 A link to the [code](https://github.com/jgarcia45/employee-tracker):
 ```
